@@ -2,7 +2,7 @@ package com.example;
 
 import org.junit.Test;
 
-import com.example.Hello;
+import com.example.service.Hello;
 
 import java.io.ByteArrayOutputStream;
 import java.io.OutputStream;
